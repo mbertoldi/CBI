@@ -1,9 +1,8 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(name='cbi',
-      version='0.2',
-      package_dir={'cbi': 'src'},
-      packages=['cbi'],
+      version='0.3',
+      packages=find_packages(),
       description='CBI flows wrapper',
       author='Lorenzo Battistini',
       author_email='lorenzo.battistini@agilebg.com',

@@ -1,0 +1,9 @@
+AUTHORS.txt
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+src/cbi.egg-info/PKG-INFO
+src/cbi.egg-info/SOURCES.txt
+src/cbi.egg-info/dependency_links.txt
+src/cbi.egg-info/top_level.txt
